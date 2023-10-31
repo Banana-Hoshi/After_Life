@@ -1,0 +1,3 @@
+rep "Horror Game Project@BananaHoshi@cloud"
+  path "/"
+    smartbranch "/main"

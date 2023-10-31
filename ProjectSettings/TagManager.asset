@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Light
+  - Interactable
+  - Curve
+  - Monster
+  - OpenLeft
+  - OpenRight
+  - Tim
+  - timbreath
+  - Floor
+  - Wood
+  - Concrete
+  - Steel
+  - Closet
+  - Bed
+  - kimGrabCam
+  - IgnoreKey
+  - kimFloor
+  - UpTrigger
+  - DownTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Chromatic
+  - Water
+  - UI
+  - Moving
+  - Interacting
+  - Curve
+  - CurveCheck
+  - Floor
+  - Player
+  - Door
+  - Tim
+  - Walls
+  - Fireplace
+  - IgnorePlayer
+  - Jim
+  - Book
+  - Kim
+  - IgnorePlayer2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

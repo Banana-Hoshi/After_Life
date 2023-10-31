@@ -1,0 +1,4356 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9215316097434433715
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mindman/Sound 10
+  m_EditorClassIdentifier: 
+  Path: event:/Mindman/Sound 10
+  Guid:
+    Data1: -979102595
+    Data2: 1093117359
+    Data3: -865884030
+    Data4: -472241413
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-8847079358751309897
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mindman/Sound
+  m_EditorClassIdentifier: 
+  Path: event:/Mindman/Sound
+  Guid:
+    Data1: -1141657446
+    Data2: 1273935423
+    Data3: 1062133638
+    Data4: -843889699
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-8821569899914834825
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/FactoryAmbience
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/FactoryAmbience
+  Guid:
+    Data1: -1287110008
+    Data2: 1327013700
+    Data3: -290299225
+    Data4: -1365186187
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-8784834363116841795
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/Fireplace
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/Fireplace
+  Guid:
+    Data1: -638422711
+    Data2: 1125704800
+    Data3: -1887716699
+    Data4: 619664870
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-8728447755021680253
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ClockGears/GearState
+  m_EditorClassIdentifier: 
+  Name: GearState
+  StudioPath: 
+  Min: 0
+  Max: 2
+  Default: 0
+  ID:
+    data1: 1086734613
+    data2: 3338226969
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - ON
+  - LOOP
+  - OFF
+  Exists: 1
+--- !u!114 &-8579179315529510383
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/ClockGear2
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/ClockGear2
+  Guid:
+    Data1: -1882999336
+    Data2: 1297216660
+    Data3: -1408344162
+    Data4: -1937531151
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-8510065471626568554
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/notscare
+  m_EditorClassIdentifier: 
+  Name: notscare
+  StudioPath: parameter:/notscare
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3225635005
+    data2: 2514418170
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-8416895684926974463
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/notscare
+  m_EditorClassIdentifier: 
+  Name: notscare
+  StudioPath: parameter:/notscare
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3225635005
+    data2: 2514418170
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-8393005208740722579
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/DollhouseDoorClose
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/DollhouseDoorClose
+  Guid:
+    Data1: 1811918804
+    Data2: 1085674205
+    Data3: -731285612
+    Data4: -1326090265
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-8327046295694374554
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/Fireplace
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/Fireplace
+  Guid:
+    Data1: -638422711
+    Data2: 1125704800
+    Data3: -1887716699
+    Data4: 619664870
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-8308062029722619137
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/FinalLevel/endlayer
+  m_EditorClassIdentifier: 
+  Path: event:/FinalLevel/endlayer
+  Guid:
+    Data1: 724250190
+    Data2: 1228129872
+    Data3: -1342056033
+    Data4: 184578466
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-8282575783040073515
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/PressSound/HydroPressState
+  m_EditorClassIdentifier: 
+  Name: HydroPressState
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 2290143919
+    data2: 3891269835
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - ON
+  - OFF
+  Exists: 1
+--- !u!114 &-8041724114001896445
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/DollhouseLightning
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/DollhouseLightning
+  Guid:
+    Data1: -2071283572
+    Data2: 1219064664
+    Data3: -612954495
+    Data4: 1844862312
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 9000
+--- !u!114 &-7908588125728238367
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/ClockGear3
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/ClockGear3
+  Guid:
+    Data1: 1515535904
+    Data2: 1141141857
+    Data3: -1171599487
+    Data4: 1258710993
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-7898123663790088570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Title
+  m_EditorClassIdentifier: 
+  Path: event:/Title
+  Guid:
+    Data1: -2043383028
+    Data2: 1172273761
+    Data3: 1151909040
+    Data4: 953967286
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-7665338738278309452
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/silence
+  m_EditorClassIdentifier: 
+  Path: event:/silence
+  Guid:
+    Data1: -2002181215
+    Data2: 1222045177
+    Data3: -510746443
+    Data4: 549418800
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-7653292421226213284
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Silence
+  m_EditorClassIdentifier: 
+  Path: event:/Silence
+  Guid:
+    Data1: -2002181215
+    Data2: 1222045177
+    Data3: -510746443
+    Data4: 549418800
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-7614901776891961496
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Footsteps
+  m_EditorClassIdentifier: 
+  Path: event:/Footsteps
+  Guid:
+    Data1: -1739068987
+    Data2: 1174769375
+    Data3: 662768806
+    Data4: -1405034229
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -1124839663603757560}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-7490772931064994183
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/FinalLevel/Heartbeat
+  m_EditorClassIdentifier: 
+  Path: event:/FinalLevel/Heartbeat
+  Guid:
+    Data1: -505185241
+    Data2: 1315699803
+    Data3: -1140666221
+    Data4: 638839414
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-7462956873965784418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/static 2
+  m_EditorClassIdentifier: 
+  Path: event:/static 2
+  Guid:
+    Data1: -1705419922
+    Data2: 1280696156
+    Data3: 1600566453
+    Data4: -2125824393
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-6963203051129430244
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ClockSolved/ClockValue
+  m_EditorClassIdentifier: 
+  Name: ClockValue
+  StudioPath: 
+  Min: 0
+  Max: 8
+  Default: 0
+  ID:
+    data1: 3496207484
+    data2: 513413536
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  Exists: 1
+--- !u!114 &-6867070884928323950
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mindman/TableThud
+  m_EditorClassIdentifier: 
+  Path: event:/Mindman/TableThud
+  Guid:
+    Data1: 1257571098
+    Data2: 1107982110
+    Data3: 1299251863
+    Data4: 1586083144
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-6760821616838546836
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Doors/DoorsDoorOpen
+  m_EditorClassIdentifier: 
+  Path: event:/Doors/DoorsDoorOpen
+  Guid:
+    Data1: -1211950742
+    Data2: 1296207649
+    Data3: -1196850045
+    Data4: 281728171
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 9400
+  Length: 0
+--- !u!114 &-6540428504105229623
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/sinkrunning
+  m_EditorClassIdentifier: 
+  Path: event:/sinkrunning
+  Guid:
+    Data1: -263008168
+    Data2: 1238275263
+    Data3: 1860235909
+    Data4: -1030076292
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-6490137181544534471
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/TimScare
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/TimScare
+  Guid:
+    Data1: 41524635
+    Data2: 1146336402
+    Data3: 2035926158
+    Data4: -2030579762
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-6412276331913830008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mindman/Sound 5
+  m_EditorClassIdentifier: 
+  Path: event:/Mindman/Sound 5
+  Guid:
+    Data1: 2141743676
+    Data2: 1300037252
+    Data3: 1846215057
+    Data4: -680260502
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-6372246533522324100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/ClockButtons
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/ClockButtons
+  Guid:
+    Data1: -1322008188
+    Data2: 1324331914
+    Data3: -726263885
+    Data4: 1053849707
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -1333577571555901400}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-6330286874145632460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Doors/ChairBG
+  m_EditorClassIdentifier: 
+  Path: event:/Doors/ChairBG
+  Guid:
+    Data1: 495081244
+    Data2: 1100786388
+    Data3: -485972074
+    Data4: 1031801462
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-6310332224368739606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ClockButtons/ButtonState
+  m_EditorClassIdentifier: 
+  Name: ButtonState
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3762155902
+    data2: 3940026149
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - Up
+  - Down
+  Exists: 1
+--- !u!114 &-5824586621866195239
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mindman/Sound 4
+  m_EditorClassIdentifier: 
+  Path: event:/Mindman/Sound 4
+  Guid:
+    Data1: 1500895543
+    Data2: 1105169064
+    Data3: 1156321679
+    Data4: -2050102081
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-5742758329668434594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/ClockGear3
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/ClockGear3
+  Guid:
+    Data1: 1515535904
+    Data2: 1141141857
+    Data3: -1171599487
+    Data4: 1258710993
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-5732682358361954846
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mindman/Sound 8
+  m_EditorClassIdentifier: 
+  Path: event:/Mindman/Sound 8
+  Guid:
+    Data1: 621896884
+    Data2: 1119459980
+    Data3: 447085470
+    Data4: -1289341312
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-5724115195579248030
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Doors/Scream
+  m_EditorClassIdentifier: 
+  Path: event:/Doors/Scream
+  Guid:
+    Data1: -528358437
+    Data2: 1184927468
+    Data3: 537626244
+    Data4: 1693890179
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 80
+  Length: 0
+--- !u!114 &-5676751421384636010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/ClockGears
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/ClockGears
+  Guid:
+    Data1: 209188936
+    Data2: 1278356294
+    Data3: 1214371209
+    Data4: -187299565
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -8728447755021680253}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-5592228398256016589
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Heartbeat/BeatSpeed
+  m_EditorClassIdentifier: 
+  Name: BeatSpeed
+  StudioPath: 
+  Min: -5
+  Max: 10
+  Default: 0
+  ID:
+    data1: 261239126
+    data2: 1431536822
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-5513802676990044655
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/FinalLevel/layer1
+  m_EditorClassIdentifier: 
+  Path: event:/FinalLevel/layer1
+  Guid:
+    Data1: -1927714667
+    Data2: 1189058486
+    Data3: -120321895
+    Data4: -377245709
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 3407193648437607102}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-5339589632056788151
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/TimScare
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/TimScare
+  Guid:
+    Data1: 41524635
+    Data2: 1146336402
+    Data3: 2035926158
+    Data4: -2030579762
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-5201433672095170735
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/RandFootsteps
+  m_EditorClassIdentifier: 
+  Path: event:/RandFootsteps
+  Guid:
+    Data1: -449117579
+    Data2: 1084978090
+    Data3: 666506382
+    Data4: -1005221039
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1.6
+  MaxDistance: 50
+  Length: 1355
+--- !u!114 &-5119206141695444885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/FactoryDoorOpen
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/FactoryDoorOpen
+  Guid:
+    Data1: -1911004525
+    Data2: 1188786453
+    Data3: 1985182910
+    Data4: -114425737
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-5083082345353571379
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/DollhouseDoorClose
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/DollhouseDoorClose
+  Guid:
+    Data1: 1811918804
+    Data2: 1085674205
+    Data3: -731285612
+    Data4: -1326090265
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-5008017806137771674
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mindman/TableThud
+  m_EditorClassIdentifier: 
+  Path: event:/Mindman/TableThud
+  Guid:
+    Data1: 1257571098
+    Data2: 1107982110
+    Data3: 1299251863
+    Data4: 1586083144
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-4785950425039780620
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/DollhouseDoorOpen
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/DollhouseDoorOpen
+  Guid:
+    Data1: 380567370
+    Data2: 1305870818
+    Data3: -735695984
+    Data4: 618896115
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-4712946142856101591
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/PressSound/HydroPressState
+  m_EditorClassIdentifier: 
+  Name: HydroPressState
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 2290143919
+    data2: 3891269835
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - ON
+  - OFF
+  Exists: 1
+--- !u!114 &-4359535450104853853
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Doors/Scream
+  m_EditorClassIdentifier: 
+  Path: event:/Doors/Scream
+  Guid:
+    Data1: -528358437
+    Data2: 1184927468
+    Data3: 537626244
+    Data4: 1693890179
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 80
+  Length: 0
+--- !u!114 &-4152201155314294851
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/KimCrash
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/KimCrash
+  Guid:
+    Data1: 1769552817
+    Data2: 1259069235
+    Data3: -1604803196
+    Data4: 434531974
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-3973222720334005310
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/FactoryDoorOpen
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/FactoryDoorOpen
+  Guid:
+    Data1: -1911004525
+    Data2: 1188786453
+    Data3: 1985182910
+    Data4: -114425737
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-3904086091755129033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Heartbeat/BeatSpeed
+  m_EditorClassIdentifier: 
+  Name: BeatSpeed
+  StudioPath: 
+  Min: -5
+  Max: 10
+  Default: 0
+  ID:
+    data1: 261239126
+    data2: 1431536822
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-3887190421558576988
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/FactoryAmbience
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/FactoryAmbience
+  Guid:
+    Data1: -1287110008
+    Data2: 1327013700
+    Data3: -290299225
+    Data4: -1365186187
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-3719378547396643572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/BookFall
+  m_EditorClassIdentifier: 
+  Path: event:/BookFall
+  Guid:
+    Data1: 125000916
+    Data2: 1137440556
+    Data3: -479110496
+    Data4: 1612043387
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 245
+--- !u!114 &-3432043425724993318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/BedroomBG
+  m_EditorClassIdentifier: 
+  Path: event:/BedroomBG
+  Guid:
+    Data1: 1516413235
+    Data2: 1292976557
+    Data3: -525934972
+    Data4: 1380240219
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-3294773520996450211
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Audio/FMOD BANKS/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638163451521807212
+  FileSizes:
+  - Name: 
+    Value: 3610
+  Exists: 1
+--- !u!114 &-3265596424956154463
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Doors/JimFootsteps
+  m_EditorClassIdentifier: 
+  Path: event:/Doors/JimFootsteps
+  Guid:
+    Data1: -529412088
+    Data2: 1189180282
+    Data3: -1720109689
+    Data4: -652813097
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1.6
+  MaxDistance: 50
+  Length: 140
+--- !u!114 &-3238525295544409995
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Footsteps
+  m_EditorClassIdentifier: 
+  Path: event:/Footsteps
+  Guid:
+    Data1: -1739068987
+    Data2: 1174769375
+    Data3: 662768806
+    Data4: -1405034229
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 4880939741408386933}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-3097471798101946851
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mindman/Sound 10
+  m_EditorClassIdentifier: 
+  Path: event:/Mindman/Sound 10
+  Guid:
+    Data1: -979102595
+    Data2: 1093117359
+    Data3: -865884030
+    Data4: -472241413
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-3059199659342185682
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Title
+  m_EditorClassIdentifier: 
+  Path: event:/Title
+  Guid:
+    Data1: -2043383028
+    Data2: 1172273761
+    Data3: 1151909040
+    Data4: 953967286
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-3016176897610701645
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/FactoryDoorOpen
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/FactoryDoorOpen
+  Guid:
+    Data1: -1911004525
+    Data2: 1188786453
+    Data3: 1985182910
+    Data4: -114425737
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-2784168602376703346
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/PlayerFootstepsFactory
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/PlayerFootstepsFactory
+  Guid:
+    Data1: -99919496
+    Data2: 1086883475
+    Data3: -280050035
+    Data4: -1011988577
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 140
+--- !u!114 &-2576048468096101573
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Footsteps/Footsteps
+  m_EditorClassIdentifier: 
+  Name: Footsteps
+  StudioPath: 
+  Min: 0
+  Max: 2
+  Default: 0
+  ID:
+    data1: 1145725863
+    data2: 3878608848
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - Wood
+  - Concrete
+  - Catwalk
+  Exists: 1
+--- !u!114 &-2190691770289517996
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/layer3/vol
+  m_EditorClassIdentifier: 
+  Name: vol
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 756127892
+    data2: 3158731051
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-2187526404919040092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/FinalLevel/atmosphere
+  m_EditorClassIdentifier: 
+  Path: event:/FinalLevel/atmosphere
+  Guid:
+    Data1: 988374900
+    Data2: 1151268081
+    Data3: -1680871017
+    Data4: -380602984
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-2094587850033128679
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/notscare
+  m_EditorClassIdentifier: 
+  Name: notscare
+  StudioPath: parameter:/notscare
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3225635005
+    data2: 2514418170
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-1944423699988094169
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/KimVoice
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/KimVoice
+  Guid:
+    Data1: -1401981998
+    Data2: 1180553189
+    Data3: -1787663173
+    Data4: 1347278465
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-1899757873343824686
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Doors/JimDeath
+  m_EditorClassIdentifier: 
+  Path: event:/Doors/JimDeath
+  Guid:
+    Data1: -614223924
+    Data2: 1291769228
+    Data3: -1827918188
+    Data4: 643293078
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-1856811700276373592
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/DollhouseDoorOpen
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/DollhouseDoorOpen
+  Guid:
+    Data1: 380567370
+    Data2: 1305870818
+    Data3: -735695984
+    Data4: 618896115
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-1812981355124444943
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/BedroomBG
+  m_EditorClassIdentifier: 
+  Path: event:/BedroomBG
+  Guid:
+    Data1: 1516413235
+    Data2: 1292976557
+    Data3: -525934972
+    Data4: 1380240219
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-1466819429074263643
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/static
+  m_EditorClassIdentifier: 
+  Path: event:/static
+  Guid:
+    Data1: 511431157
+    Data2: 1200895284
+    Data3: -682528374
+    Data4: -485593855
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-1333577571555901400
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ClockButtons/ButtonState
+  m_EditorClassIdentifier: 
+  Name: ButtonState
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3762155902
+    data2: 3940026149
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - Up
+  - Down
+  Exists: 1
+--- !u!114 &-1142915319900944556
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/TimBreathing/notscare
+  m_EditorClassIdentifier: 
+  Name: notscare
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3225635005
+    data2: 2514418170
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-1124839663603757560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Footsteps/Footsteps
+  m_EditorClassIdentifier: 
+  Name: Footsteps
+  StudioPath: 
+  Min: 0
+  Max: 2
+  Default: 0
+  ID:
+    data1: 1145725863
+    data2: 3878608848
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - Wood
+  - Concrete
+  - Catwalk
+  Exists: 1
+--- !u!114 &-990970471347137925
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/ClockGear2
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/ClockGear2
+  Guid:
+    Data1: -1882999336
+    Data2: 1297216660
+    Data3: -1408344162
+    Data4: -1937531151
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-532951498321180368
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mindman/Sound 9
+  m_EditorClassIdentifier: 
+  Path: event:/Mindman/Sound 9
+  Guid:
+    Data1: 65169220
+    Data2: 1100302303
+    Data3: 589677221
+    Data4: -103230639
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-516230814024206938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/KimCrash
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/KimCrash
+  Guid:
+    Data1: 1769552817
+    Data2: 1259069235
+    Data3: -1604803196
+    Data4: 434531974
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-289376134984185061
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mindman/Sound 12
+  m_EditorClassIdentifier: 
+  Path: event:/Mindman/Sound 12
+  Guid:
+    Data1: 931838738
+    Data2: 1081984463
+    Data3: 999631253
+    Data4: -1623530303
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-252880605958616343
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/Button
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/Button
+  Guid:
+    Data1: -383601348
+    Data2: 1247777909
+    Data3: -88794214
+    Data4: 1934745609
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-212429307945660063
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/DollhouseRain
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/DollhouseRain
+  Guid:
+    Data1: 6387926
+    Data2: 1091005860
+    Data3: 611344269
+    Data4: 245658908
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-90721172278497288
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mindman/Sound 9
+  m_EditorClassIdentifier: 
+  Path: event:/Mindman/Sound 9
+  Guid:
+    Data1: 65169220
+    Data2: 1100302303
+    Data3: 589677221
+    Data4: -103230639
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-19338937432481029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/DollGiggle
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/DollGiggle
+  Guid:
+    Data1: 596252421
+    Data2: 1212863014
+    Data3: -440034424
+    Data4: 1886705956
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 600
+  Length: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -3294773520996450211}
+  - {fileID: 143236208291425997}
+  EditorEvents:
+  - {fileID: 8977337422352028166}
+  - {fileID: 5123104074192436083}
+  - {fileID: -3059199659342185682}
+  - {fileID: 6376758504444679014}
+  - {fileID: -7908588125728238367}
+  - {fileID: 6987118605944332366}
+  - {fileID: -252880605958616343}
+  - {fileID: 7866091988816347854}
+  - {fileID: -8327046295694374554}
+  - {fileID: 1055842532064724834}
+  - {fileID: -4785950425039780620}
+  - {fileID: 7640283059923354303}
+  - {fileID: 1333983061810974682}
+  - {fileID: 1346921926852514789}
+  - {fileID: -5201433672095170735}
+  - {fileID: -3887190421558576988}
+  - {fileID: 3165325373739916265}
+  - {fileID: 3754709341379501889}
+  - {fileID: -3016176897610701645}
+  - {fileID: -5339589632056788151}
+  - {fileID: 4355154702195286796}
+  - {fileID: -4152201155314294851}
+  - {fileID: -7614901776891961496}
+  - {fileID: 5631899752901605891}
+  - {fileID: 3168348480526604101}
+  - {fileID: -3719378547396643572}
+  - {fileID: -5083082345353571379}
+  - {fileID: 608091806313457137}
+  - {fileID: -8579179315529510383}
+  - {fileID: 8129701243443505838}
+  - {fileID: 4718161644618218972}
+  - {fileID: 4716927135175284828}
+  - {fileID: 4070112591345897881}
+  - {fileID: -6540428504105229623}
+  - {fileID: -7462956873965784418}
+  - {fileID: 8351923632235027565}
+  - {fileID: -1466819429074263643}
+  - {fileID: 3960887011779145250}
+  - {fileID: 6102173133518732526}
+  - {fileID: -6867070884928323950}
+  - {fileID: 50845837423677512}
+  - {fileID: 9037017221330412164}
+  - {fileID: -90721172278497288}
+  - {fileID: 6735338099114647401}
+  - {fileID: 9064318276362522705}
+  - {fileID: -9215316097434433715}
+  - {fileID: 3873121044686925002}
+  - {fileID: 3543582908343165980}
+  - {fileID: -5732682358361954846}
+  - {fileID: 3259544020468259623}
+  - {fileID: 6750305291905983290}
+  - {fileID: 8278179828584492511}
+  - {fileID: -7490772931064994183}
+  - {fileID: 4915135027457528023}
+  - {fileID: -8308062029722619137}
+  - {fileID: -2187526404919040092}
+  - {fileID: -5513802676990044655}
+  - {fileID: 1793143890308546135}
+  EditorParameters:
+  - {fileID: -8510065471626568554}
+  MasterBanks:
+  - {fileID: 143236208291425997}
+  StringsBanks:
+  - {fileID: -3294773520996450211}
+  cacheTime: 638163451521807212
+  cacheVersion: 131593
+--- !u!114 &50845837423677512
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mindman/Sound 4
+  m_EditorClassIdentifier: 
+  Path: event:/Mindman/Sound 4
+  Guid:
+    Data1: 1500895543
+    Data2: 1105169064
+    Data3: 1156321679
+    Data4: -2050102081
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &143236208291425997
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Audio/FMOD BANKS/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638163451521757295
+  FileSizes: []
+  Exists: 1
+--- !u!114 &154953058399560106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/KimCrash
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/KimCrash
+  Guid:
+    Data1: 1769552817
+    Data2: 1259069235
+    Data3: -1604803196
+    Data4: 434531974
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &376004698023750708
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/TimBreathing
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/TimBreathing
+  Guid:
+    Data1: -181813678
+    Data2: 1174451395
+    Data3: 701160339
+    Data4: 1909066302
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 1779953966973558362}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 24465
+--- !u!114 &548826772485515315
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/FactoryAmbience
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/FactoryAmbience
+  Guid:
+    Data1: -1287110008
+    Data2: 1327013700
+    Data3: -290299225
+    Data4: -1365186187
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &608091806313457137
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/DollhouseRain
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/DollhouseRain
+  Guid:
+    Data1: 6387926
+    Data2: 1091005860
+    Data3: 611344269
+    Data4: 245658908
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &702289430672509333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Radio
+  m_EditorClassIdentifier: 
+  Path: event:/Radio
+  Guid:
+    Data1: -188869235
+    Data2: 1119332190
+    Data3: 851969208
+    Data4: 929084846
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 15
+  Length: 0
+--- !u!114 &849767003717622236
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/DollhouseRain
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/DollhouseRain
+  Guid:
+    Data1: 6387926
+    Data2: 1091005860
+    Data3: 611344269
+    Data4: 245658908
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &916734268006305872
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/BookFall
+  m_EditorClassIdentifier: 
+  Path: event:/BookFall
+  Guid:
+    Data1: 125000916
+    Data2: 1137440556
+    Data3: -479110496
+    Data4: 1612043387
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 245
+--- !u!114 &1055842532064724834
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/BigRain
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/BigRain
+  Guid:
+    Data1: 1893439817
+    Data2: 1238948346
+    Data3: 2057191312
+    Data4: -1412824446
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &1101489918092851393
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Footsteps/Footsteps
+  m_EditorClassIdentifier: 
+  Name: Footsteps
+  StudioPath: 
+  Min: 0
+  Max: 2
+  Default: 0
+  ID:
+    data1: 1145725863
+    data2: 3878608848
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - Wood
+  - Concrete
+  - Catwalk
+  Exists: 1
+--- !u!114 &1173059070880846797
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/static 2
+  m_EditorClassIdentifier: 
+  Path: event:/static 2
+  Guid:
+    Data1: -1705419922
+    Data2: 1280696156
+    Data3: 1600566453
+    Data4: -2125824393
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &1250459446758005522
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/DollhouseLightning
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/DollhouseLightning
+  Guid:
+    Data1: -2071283572
+    Data2: 1219064664
+    Data3: -612954495
+    Data4: 1844862312
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 9000
+--- !u!114 &1333983061810974682
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/TimBreathing
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/TimBreathing
+  Guid:
+    Data1: -181813678
+    Data2: 1174451395
+    Data3: 701160339
+    Data4: 1909066302
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 5809213018665553671}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 24465
+--- !u!114 &1346921926852514789
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Doors/DoorsDoorOpen
+  m_EditorClassIdentifier: 
+  Path: event:/Doors/DoorsDoorOpen
+  Guid:
+    Data1: -1211950742
+    Data2: 1296207649
+    Data3: -1196850045
+    Data4: 281728171
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 9400
+  Length: 0
+--- !u!114 &1476993247136923608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/GearTurn
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/GearTurn
+  Guid:
+    Data1: -1173037079
+    Data2: 1336915164
+    Data3: -2009540981
+    Data4: 1457316613
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &1564734128966267898
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/RandFootsteps
+  m_EditorClassIdentifier: 
+  Path: event:/RandFootsteps
+  Guid:
+    Data1: -449117579
+    Data2: 1084978090
+    Data3: 666506382
+    Data4: -1005221039
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1.6
+  MaxDistance: 50
+  Length: 1355
+--- !u!114 &1779953966973558362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/TimBreathing/notscare
+  m_EditorClassIdentifier: 
+  Name: notscare
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3225635005
+    data2: 2514418170
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &1793143890308546135
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/FinalLevel/layer3
+  m_EditorClassIdentifier: 
+  Path: event:/FinalLevel/layer3
+  Guid:
+    Data1: 1777248435
+    Data2: 1163534474
+    Data3: -1524004990
+    Data4: 1891070787
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -2190691770289517996}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &1955650517535077383
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/sinkrunning
+  m_EditorClassIdentifier: 
+  Path: event:/sinkrunning
+  Guid:
+    Data1: -263008168
+    Data2: 1238275263
+    Data3: 1860235909
+    Data4: -1030076292
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &2280587212625013831
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/DollGiggle
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/DollGiggle
+  Guid:
+    Data1: 596252421
+    Data2: 1212863014
+    Data3: -440034424
+    Data4: 1886705956
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 600
+  Length: 0
+--- !u!114 &2580748809599671553
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mindman/Sound 8
+  m_EditorClassIdentifier: 
+  Path: event:/Mindman/Sound 8
+  Guid:
+    Data1: 621896884
+    Data2: 1119459980
+    Data3: 447085470
+    Data4: -1289341312
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &2758244513974433624
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mindman/Sound 3
+  m_EditorClassIdentifier: 
+  Path: event:/Mindman/Sound 3
+  Guid:
+    Data1: -1645149492
+    Data2: 1212398080
+    Data3: 345749940
+    Data4: -840077642
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &2766764051503342686
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Doors/DoorsDoorOpen
+  m_EditorClassIdentifier: 
+  Path: event:/Doors/DoorsDoorOpen
+  Guid:
+    Data1: -1211950742
+    Data2: 1296207649
+    Data3: -1196850045
+    Data4: 281728171
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 9400
+  Length: 0
+--- !u!114 &3057593412519537867
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mindman/Sound 11
+  m_EditorClassIdentifier: 
+  Path: event:/Mindman/Sound 11
+  Guid:
+    Data1: -193729170
+    Data2: 1209612444
+    Data3: -1198655069
+    Data4: -968983609
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &3165325373739916265
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/DollhouseLightning
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/DollhouseLightning
+  Guid:
+    Data1: -2071283572
+    Data2: 1219064664
+    Data3: -612954495
+    Data4: 1844862312
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 9000
+--- !u!114 &3168348480526604101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/KimVoice
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/KimVoice
+  Guid:
+    Data1: -1401981998
+    Data2: 1180553189
+    Data3: -1787663173
+    Data4: 1347278465
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &3212774482832920715
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/Drawer rummage
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/Drawer rummage
+  Guid:
+    Data1: -760762467
+    Data2: 1211830438
+    Data3: -126147946
+    Data4: 1472114999
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &3259544020468259623
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mindman/Sound 3
+  m_EditorClassIdentifier: 
+  Path: event:/Mindman/Sound 3
+  Guid:
+    Data1: -1645149492
+    Data2: 1212398080
+    Data3: 345749940
+    Data4: -840077642
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &3385725032609127096
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mindman/Sound 7
+  m_EditorClassIdentifier: 
+  Path: event:/Mindman/Sound 7
+  Guid:
+    Data1: 1507988689
+    Data2: 1299562251
+    Data3: 1706503311
+    Data4: 230683198
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &3407193648437607102
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/layer1/vol
+  m_EditorClassIdentifier: 
+  Name: vol
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 756127892
+    data2: 3158731051
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &3435407331118739436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/static
+  m_EditorClassIdentifier: 
+  Path: event:/static
+  Guid:
+    Data1: 511431157
+    Data2: 1200895284
+    Data3: -682528374
+    Data4: -485593855
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &3472230386460148352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/DollhouseDoorClose
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/DollhouseDoorClose
+  Guid:
+    Data1: 1811918804
+    Data2: 1085674205
+    Data3: -731285612
+    Data4: -1326090265
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &3543582908343165980
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mindman/Sound
+  m_EditorClassIdentifier: 
+  Path: event:/Mindman/Sound
+  Guid:
+    Data1: -1141657446
+    Data2: 1273935423
+    Data3: 1062133638
+    Data4: -843889699
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &3754709341379501889
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Radio
+  m_EditorClassIdentifier: 
+  Path: event:/Radio
+  Guid:
+    Data1: -188869235
+    Data2: 1119332190
+    Data3: 851969208
+    Data4: 929084846
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 15
+  Length: 0
+--- !u!114 &3873121044686925002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mindman/Sound 6
+  m_EditorClassIdentifier: 
+  Path: event:/Mindman/Sound 6
+  Guid:
+    Data1: -803112808
+    Data2: 1331844568
+    Data3: 757791362
+    Data4: -805257678
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &3960887011779145250
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/ClockButtons
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/ClockButtons
+  Guid:
+    Data1: -1322008188
+    Data2: 1324331914
+    Data3: -726263885
+    Data4: 1053849707
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -6310332224368739606}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &4070112591345897881
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/GearTurn
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/GearTurn
+  Guid:
+    Data1: -1173037079
+    Data2: 1336915164
+    Data3: -2009540981
+    Data4: 1457316613
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &4088862518807528689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ClockGears/GearState
+  m_EditorClassIdentifier: 
+  Name: GearState
+  StudioPath: 
+  Min: 0
+  Max: 2
+  Default: 0
+  ID:
+    data1: 1086734613
+    data2: 3338226969
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - ON
+  - LOOP
+  - OFF
+  Exists: 1
+--- !u!114 &4150797752633907824
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/PressSound
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/PressSound
+  Guid:
+    Data1: -604508850
+    Data2: 1218003366
+    Data3: 1701723817
+    Data4: 2146034507
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -4712946142856101591}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &4301726391254881341
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Footsteps
+  m_EditorClassIdentifier: 
+  Path: event:/Footsteps
+  Guid:
+    Data1: -1739068987
+    Data2: 1174769375
+    Data3: 662768806
+    Data4: -1405034229
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -2576048468096101573}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &4355154702195286796
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/Drawer rummage
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/Drawer rummage
+  Guid:
+    Data1: -760762467
+    Data2: 1211830438
+    Data3: -126147946
+    Data4: 1472114999
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &4716927135175284828
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/GrandfatherCLock
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/GrandfatherCLock
+  Guid:
+    Data1: 945495523
+    Data2: 1140016844
+    Data3: -476506981
+    Data4: 124207394
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0.1
+  MaxDistance: 6
+  Length: 0
+--- !u!114 &4718161644618218972
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Doors/Scream
+  m_EditorClassIdentifier: 
+  Path: event:/Doors/Scream
+  Guid:
+    Data1: -528358437
+    Data2: 1184927468
+    Data3: 537626244
+    Data4: 1693890179
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 80
+  Length: 0
+--- !u!114 &4742665383772493570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Footsteps
+  m_EditorClassIdentifier: 
+  Path: event:/Footsteps
+  Guid:
+    Data1: -1739068987
+    Data2: 1174769375
+    Data3: 662768806
+    Data4: -1405034229
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 1101489918092851393}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &4880939741408386933
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Footsteps/Footsteps
+  m_EditorClassIdentifier: 
+  Name: Footsteps
+  StudioPath: 
+  Min: 0
+  Max: 2
+  Default: 0
+  ID:
+    data1: 1145725863
+    data2: 3878608848
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - Wood
+  - Concrete
+  - Catwalk
+  Exists: 1
+--- !u!114 &4915135027457528023
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/FinalLevel/layer2
+  m_EditorClassIdentifier: 
+  Path: event:/FinalLevel/layer2
+  Guid:
+    Data1: 903450183
+    Data2: 1249426793
+    Data3: 1406506935
+    Data4: -833589667
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 6015358177181975552}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &5123104074192436083
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Doors/JimFootsteps
+  m_EditorClassIdentifier: 
+  Path: event:/Doors/JimFootsteps
+  Guid:
+    Data1: -529412088
+    Data2: 1189180282
+    Data3: -1720109689
+    Data4: -652813097
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1.6
+  MaxDistance: 50
+  Length: 140
+--- !u!114 &5616828844866193777
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/DollhouseDoorOpen
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/DollhouseDoorOpen
+  Guid:
+    Data1: 380567370
+    Data2: 1305870818
+    Data3: -735695984
+    Data4: 618896115
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &5626550714435030233
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Heartbeat
+  m_EditorClassIdentifier: 
+  Path: event:/Heartbeat
+  Guid:
+    Data1: 349227994
+    Data2: 1169356904
+    Data3: 1227601284
+    Data4: 1092320505
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -3904086091755129033}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &5631899752901605891
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Doors/JimDeath
+  m_EditorClassIdentifier: 
+  Path: event:/Doors/JimDeath
+  Guid:
+    Data1: -614223924
+    Data2: 1291769228
+    Data3: -1827918188
+    Data4: 643293078
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &5658920396995303990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mindman/Sound 6
+  m_EditorClassIdentifier: 
+  Path: event:/Mindman/Sound 6
+  Guid:
+    Data1: -803112808
+    Data2: 1331844568
+    Data3: 757791362
+    Data4: -805257678
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &5809213018665553671
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/TimBreathing/notscare
+  m_EditorClassIdentifier: 
+  Name: notscare
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3225635005
+    data2: 2514418170
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &5824026728455594235
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/GrandfatherCLock
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/GrandfatherCLock
+  Guid:
+    Data1: 945495523
+    Data2: 1140016844
+    Data3: -476506981
+    Data4: 124207394
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0.1
+  MaxDistance: 6
+  Length: 0
+--- !u!114 &5873798342960594798
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mindman/Sound 2
+  m_EditorClassIdentifier: 
+  Path: event:/Mindman/Sound 2
+  Guid:
+    Data1: -2049979054
+    Data2: 1215639057
+    Data3: -808278606
+    Data4: 546340082
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &6015358177181975552
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/layer2/vol
+  m_EditorClassIdentifier: 
+  Name: vol
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 756127892
+    data2: 3158731051
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &6102173133518732526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/ClockSolved
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/ClockSolved
+  Guid:
+    Data1: -160700843
+    Data2: 1241726743
+    Data3: -1785279054
+    Data4: -2041714755
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -6963203051129430244}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &6376758504444679014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Doors/ChairBG
+  m_EditorClassIdentifier: 
+  Path: event:/Doors/ChairBG
+  Guid:
+    Data1: 495081244
+    Data2: 1100786388
+    Data3: -485972074
+    Data4: 1031801462
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &6428784938092852569
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Doors/JimDeath
+  m_EditorClassIdentifier: 
+  Path: event:/Doors/JimDeath
+  Guid:
+    Data1: -614223924
+    Data2: 1291769228
+    Data3: -1827918188
+    Data4: 643293078
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &6703717021847187184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/BigRain
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/BigRain
+  Guid:
+    Data1: 1893439817
+    Data2: 1238948346
+    Data3: 2057191312
+    Data4: -1412824446
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &6735338099114647401
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mindman/Sound 2
+  m_EditorClassIdentifier: 
+  Path: event:/Mindman/Sound 2
+  Guid:
+    Data1: -2049979054
+    Data2: 1215639057
+    Data3: -808278606
+    Data4: 546340082
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &6750305291905983290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mindman/Sound 7
+  m_EditorClassIdentifier: 
+  Path: event:/Mindman/Sound 7
+  Guid:
+    Data1: 1507988689
+    Data2: 1299562251
+    Data3: 1706503311
+    Data4: 230683198
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &6893739244563895907
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Credits
+  m_EditorClassIdentifier: 
+  Path: event:/Credits
+  Guid:
+    Data1: 1873864669
+    Data2: 1313117225
+    Data3: 664256152
+    Data4: 2111949417
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &6987118605944332366
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/BedroomBG
+  m_EditorClassIdentifier: 
+  Path: event:/BedroomBG
+  Guid:
+    Data1: 1516413235
+    Data2: 1292976557
+    Data3: -525934972
+    Data4: 1380240219
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &7111080875041213685
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Radio
+  m_EditorClassIdentifier: 
+  Path: event:/Radio
+  Guid:
+    Data1: -188869235
+    Data2: 1119332190
+    Data3: 851969208
+    Data4: 929084846
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 15
+  Length: 0
+--- !u!114 &7618271454985667524
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ClockSolved/ClockValue
+  m_EditorClassIdentifier: 
+  Name: ClockValue
+  StudioPath: 
+  Min: 0
+  Max: 8
+  Default: 0
+  ID:
+    data1: 3496207484
+    data2: 513413536
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  Exists: 1
+--- !u!114 &7640283059923354303
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/PressSound
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/PressSound
+  Guid:
+    Data1: -604508850
+    Data2: 1218003366
+    Data3: 1701723817
+    Data4: 2146034507
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -8282575783040073515}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &7656575409894708238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/GearTurn
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/GearTurn
+  Guid:
+    Data1: -1173037079
+    Data2: 1336915164
+    Data3: -2009540981
+    Data4: 1457316613
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &7736557692743382483
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Doors/ChairBG
+  m_EditorClassIdentifier: 
+  Path: event:/Doors/ChairBG
+  Guid:
+    Data1: 495081244
+    Data2: 1100786388
+    Data3: -485972074
+    Data4: 1031801462
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &7866091988816347854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/ClockGears
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/ClockGears
+  Guid:
+    Data1: 209188936
+    Data2: 1278356294
+    Data3: 1214371209
+    Data4: -187299565
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 4088862518807528689}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &7923639633713083093
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/Drawer rummage
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/Drawer rummage
+  Guid:
+    Data1: -760762467
+    Data2: 1211830438
+    Data3: -126147946
+    Data4: 1472114999
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &8129701243443505838
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Heartbeat
+  m_EditorClassIdentifier: 
+  Path: event:/Heartbeat
+  Guid:
+    Data1: 349227994
+    Data2: 1169356904
+    Data3: 1227601284
+    Data4: 1092320505
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -5592228398256016589}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &8221273951668757751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Doors/JimFootsteps
+  m_EditorClassIdentifier: 
+  Path: event:/Doors/JimFootsteps
+  Guid:
+    Data1: -529412088
+    Data2: 1189180282
+    Data3: -1720109689
+    Data4: -652813097
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1.6
+  MaxDistance: 50
+  Length: 140
+--- !u!114 &8278179828584492511
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Credits
+  m_EditorClassIdentifier: 
+  Path: event:/Credits
+  Guid:
+    Data1: 1873864669
+    Data2: 1313117225
+    Data3: 664256152
+    Data4: 2111949417
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &8351923632235027565
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/silence
+  m_EditorClassIdentifier: 
+  Path: event:/silence
+  Guid:
+    Data1: -2002181215
+    Data2: 1222045177
+    Data3: -510746443
+    Data4: 549418800
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &8554120837480361768
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/TimBreathing
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/TimBreathing
+  Guid:
+    Data1: -181813678
+    Data2: 1174451395
+    Data3: 701160339
+    Data4: 1909066302
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -1142915319900944556}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 24465
+--- !u!114 &8602105529908053816
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/ClockSolved
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/ClockSolved
+  Guid:
+    Data1: -160700843
+    Data2: 1241726743
+    Data3: -1785279054
+    Data4: -2041714755
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 7618271454985667524}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &8904282408289576654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Factory/Button
+  m_EditorClassIdentifier: 
+  Path: event:/Factory/Button
+  Guid:
+    Data1: -383601348
+    Data2: 1247777909
+    Data3: -88794214
+    Data4: 1934745609
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &8977337422352028166
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/DollGiggle
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/DollGiggle
+  Guid:
+    Data1: 596252421
+    Data2: 1212863014
+    Data3: -440034424
+    Data4: 1886705956
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 600
+  Length: 0
+--- !u!114 &9037017221330412164
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mindman/Sound 5
+  m_EditorClassIdentifier: 
+  Path: event:/Mindman/Sound 5
+  Guid:
+    Data1: 2141743676
+    Data2: 1300037252
+    Data3: 1846215057
+    Data4: -680260502
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &9064318276362522705
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mindman/Sound 11
+  m_EditorClassIdentifier: 
+  Path: event:/Mindman/Sound 11
+  Guid:
+    Data1: -193729170
+    Data2: 1209612444
+    Data3: -1198655069
+    Data4: -968983609
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &9137823132041940724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Dollhouse/TimScare
+  m_EditorClassIdentifier: 
+  Path: event:/Dollhouse/TimScare
+  Guid:
+    Data1: 41524635
+    Data2: 1146336402
+    Data3: 2035926158
+    Data4: -2030579762
+  Banks:
+  - {fileID: 143236208291425997}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0

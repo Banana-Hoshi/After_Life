@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: aaa34ef5c9c63324f9d3ad93ff8df637
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -2825505829649748596
+    second: metarig|metarig.001|metarig|metarig|metarig|curtsey
+  - first:
+      74: -2188179561123725493
+    second: metarig|metarig.001|metarig|metarig|metarig|sit
+  - first:
+      74: -801677441047173098
+    second: metarig|metarig.001|metarig|metarig|metarig|sitgossip
+  - first:
+      74: -4016535548304817868
+    second: metarig|metarig.001|metarig|metarig|metarig|Stand
+  - first:
+      74: 6057136914167410919
+    second: metarig|metarig.001|metarig|metarig|metarig|standcrooked
+  - first:
+      74: 7167694700070490509
+    second: metarig|metarig.002|metarig|crisscross
+  - first:
+      74: -3041247122638888986
+    second: metarig|metarig.002|metarig|curtsey
+  - first:
+      74: 1365707169264616555
+    second: metarig|metarig.002|metarig|sit
+  - first:
+      74: -6338103039172933870
+    second: metarig|metarig.002|metarig|sitgossip
+  - first:
+      74: 910264088042926707
+    second: metarig|metarig.002|metarig|Stand
+  - first:
+      74: 5700539355916197232
+    second: metarig|metarig.002|metarig|standcrooked
+  - first:
+      74: -594808587329648962
+    second: metarig|metarig.003|metarig|curtsey
+  - first:
+      74: 620427023008863260
+    second: metarig|metarig.003|metarig|sit
+  - first:
+      74: 6300908966892443985
+    second: metarig|metarig.003|metarig|sitgossip
+  - first:
+      74: 5785320185610383180
+    second: metarig|metarig.003|metarig|Stand
+  - first:
+      74: -4638615040827981917
+    second: metarig|metarig.003|metarig|standcrooked
+  - first:
+      74: -622870043658950218
+    second: metarig|metarig.004|metarig|curtsey
+  - first:
+      74: -6061342001494464667
+    second: metarig|metarig.004|metarig|sit
+  - first:
+      74: 4844628448569839559
+    second: metarig|metarig.004|metarig|sitgossip
+  - first:
+      74: 2897832622063856246
+    second: metarig|metarig.004|metarig|Stand
+  - first:
+      74: 930534406076180373
+    second: metarig|metarig.004|metarig|standcrooked
+  - first:
+      74: -5765561645073274411
+    second: metarig|metarig.005|metarig|curtsey
+  - first:
+      74: 5029646328517885921
+    second: metarig|metarig.005|metarig|sit
+  - first:
+      74: 7729897809899901253
+    second: metarig|metarig.005|metarig|sitgossip
+  - first:
+      74: 1173560788644594176
+    second: metarig|metarig.005|metarig|Stand
+  - first:
+      74: 8670237104190783001
+    second: metarig|metarig.005|metarig|standcrooked
+  - first:
+      74: -2485845364282267052
+    second: metarig|metarig.006|metarig|curtsey
+  - first:
+      74: 3937142660467427313
+    second: metarig|metarig.006|metarig|sit
+  - first:
+      74: 8906495323279825472
+    second: metarig|metarig.006|metarig|sitgossip
+  - first:
+      74: 1945680542211467575
+    second: metarig|metarig.006|metarig|Stand
+  - first:
+      74: 8334262733733855042
+    second: metarig|metarig.006|metarig|standcrooked
+  - first:
+      74: -3126933546714857316
+    second: metarig|metarig|metarig|crucified
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: ddacc33ea6f8e224f91dacdece8ea82b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: c0136979b535e0841904a614dded7b47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: fe7e07caf437bdf41a6f6a0e3ff71d2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: da6a78882f0a98a4ab605de8b1c8daf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: d89757586e83bd14bbf4fd260337fd94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: 939f67fc3c1456d44ba842e91d819965, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 7a38ed2a4945fb148aa548026e3678a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: 94365537848741f4aab4f8c4ffe0298f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: 0999d5abb4c26c44f916fe8538e5c0a0, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: metarig|metarig|metarig|crucified
+      takeName: metarig|metarig|metarig|crucified
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

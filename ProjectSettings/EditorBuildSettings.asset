@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ContentWarning.unity
+    guid: b8b04845ad3895d48ada8683ba2ef5f1
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 22ac99e0a4e5d304b8366b90b4dbd79c
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: c1fcebc17cfb04743ba68c39ec51a08a
+  - enabled: 1
+    path: Assets/Scenes/Bedroom/Bedroom.unity
+    guid: a655bf3204703c94c9866a187748bae5
+  - enabled: 1
+    path: Assets/Scenes/Flash/Chair Flash/Chair.unity
+    guid: 08003e86ac9d1114bb0e61bf32f29fee
+  - enabled: 1
+    path: Assets/Scenes/Flash/Dollhouse/DollHouse.unity
+    guid: 1e919ac6efcdb104f9bd778a1236a9da
+  - enabled: 1
+    path: Assets/Scenes/Flash/Factory/Factory.unity
+    guid: 1ece18abc902d174f8f489a0faf08f4a
+  - enabled: 1
+    path: Assets/Scenes/Bedroom/FinalLevelRespawn.unity
+    guid: b76b79d82726e4444a5963e781bf2c63
+  - enabled: 1
+    path: Assets/Scenes/Bedroom/GoodEnding.unity
+    guid: 61b694079106de647991067f386609e9
+  - enabled: 1
+    path: Assets/Scenes/Bedroom/BadEnding.unity
+    guid: 52bb918881624ab4681ea31a97be26be
+  - enabled: 1
+    path: Assets/Scenes/BadEndCredits.unity
+    guid: 355d3e60f44388c41857aef8a6f4fa7f
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: e3e4c3fce6877a343a467e2a85dce216
+  - enabled: 1
+    path: Assets/Scenes/Void.unity
+    guid: 0de79dd73e10bba4b994de60580456b2
+  - enabled: 1
+    path: Assets/Scenes/DemoStuff/DemoCredits.unity
+    guid: cb7220f776c052e48bc3db3535e7154d
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: f8549cbeb0b0c4546b3694c3fca06d04,
+      type: 2}

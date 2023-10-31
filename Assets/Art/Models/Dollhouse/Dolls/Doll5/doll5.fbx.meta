@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: ec8fb4ab91992a34e8a5748e79e25a50
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -7240457270638836749
+    second: metarig.005|metarig.001|metarig|metarig|metarig|curtsey
+  - first:
+      74: -2179603739891827797
+    second: metarig.005|metarig.001|metarig|metarig|metarig|sit
+  - first:
+      74: 3239695681068887294
+    second: metarig.005|metarig.001|metarig|metarig|metarig|sitgossip
+  - first:
+      74: -8753884565375772720
+    second: metarig.005|metarig.001|metarig|metarig|metarig|Stand
+  - first:
+      74: -7494532360097595517
+    second: metarig.005|metarig.001|metarig|metarig|metarig|standcrooked
+  - first:
+      74: 977130286364909663
+    second: metarig.005|metarig.002|metarig|crisscross
+  - first:
+      74: 8622093289933966901
+    second: metarig.005|metarig.002|metarig|curtsey
+  - first:
+      74: -801710623333726808
+    second: metarig.005|metarig.002|metarig|sit
+  - first:
+      74: -8610922104668126983
+    second: metarig.005|metarig.002|metarig|sitgossip
+  - first:
+      74: 2842575701003287963
+    second: metarig.005|metarig.002|metarig|Stand
+  - first:
+      74: -864500181896347340
+    second: metarig.005|metarig.002|metarig|standcrooked
+  - first:
+      74: -7003378975840391252
+    second: metarig.005|metarig.003|metarig|curtsey
+  - first:
+      74: -6236574948720992888
+    second: metarig.005|metarig.003|metarig|sit
+  - first:
+      74: 2122883410299198124
+    second: metarig.005|metarig.003|metarig|sitgossip
+  - first:
+      74: 8586813876577616872
+    second: metarig.005|metarig.003|metarig|Stand
+  - first:
+      74: -5599746173008361168
+    second: metarig.005|metarig.003|metarig|standcrooked
+  - first:
+      74: -5525610629946366948
+    second: metarig.005|metarig.004|metarig|curtsey
+  - first:
+      74: 6532909792060690534
+    second: metarig.005|metarig.004|metarig|sit
+  - first:
+      74: -8432461574263537638
+    second: metarig.005|metarig.004|metarig|sitgossip
+  - first:
+      74: -1469535246392483386
+    second: metarig.005|metarig.004|metarig|Stand
+  - first:
+      74: 3052400650103285973
+    second: metarig.005|metarig.004|metarig|standcrooked
+  - first:
+      74: -7354006470368426857
+    second: metarig.005|metarig.005|metarig|curtsey
+  - first:
+      74: 6476925018237969041
+    second: metarig.005|metarig.005|metarig|sit
+  - first:
+      74: -5010270338738606789
+    second: metarig.005|metarig.005|metarig|sitgossip
+  - first:
+      74: 2402655983249290800
+    second: metarig.005|metarig.005|metarig|Stand
+  - first:
+      74: -8781947422091442680
+    second: metarig.005|metarig.005|metarig|standcrooked
+  - first:
+      74: 1280257756437870924
+    second: metarig.005|metarig.006|metarig|curtsey
+  - first:
+      74: 3781813560490826226
+    second: metarig.005|metarig.006|metarig|sit
+  - first:
+      74: 1925833094884631953
+    second: metarig.005|metarig.006|metarig|sitgossip
+  - first:
+      74: 6608885562222409845
+    second: metarig.005|metarig.006|metarig|Stand
+  - first:
+      74: 574783133188587238
+    second: metarig.005|metarig.006|metarig|standcrooked
+  - first:
+      74: -7720167288931083948
+    second: metarig.005|metarig|metarig|crucified
+  - first:
+      74: -217359000796622757
+    second: metarig|curtsey
+  - first:
+      74: -3489504414601453800
+    second: metarig|sit
+  - first:
+      74: 7178456098523811788
+    second: metarig|sitgossip
+  - first:
+      74: -1458074983525215065
+    second: metarig|Stand
+  - first:
+      74: -7592577971587807760
+    second: metarig|standcrooked
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 16f1da2a2918bcf458327c8cd554e97c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 64d3a50e404dd344095f6a2796f4b6e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: c768188068d9bc74d98bad0b4f074449, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: 351b16b61b0436341961e354c7d2e47f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: 86e09a5e10ffa2d4b8fccbe09c9b6286, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.034
+    second: {fileID: 2100000, guid: cde67f37d7d2f0b43b3a0e4a1871741e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.035
+    second: {fileID: 2100000, guid: 51d5f80eaac5bd6488eb575660eb0361, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.036
+    second: {fileID: 2100000, guid: ac4fba2d2167a844198ce88e4141fca6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.037
+    second: {fileID: 2100000, guid: 05bb0e80e905c7e448b1bddc58ff9a18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.038
+    second: {fileID: 2100000, guid: 4bfa048dd5a235e419ce548b92127df5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.039
+    second: {fileID: 2100000, guid: df2909a4af587c842926167201592b71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Outline
+    second: {fileID: 2100000, guid: 36e551ca6fc0fd7409077aee29ec7471, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: metarig.005|metarig.002|metarig|crisscross
+      takeName: metarig.005|metarig.002|metarig|crisscross
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: metarig|curtsey
+      takeName: metarig|curtsey
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: metarig|sit
+      takeName: metarig|sit
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: metarig|sitgossip
+      takeName: metarig|sitgossip
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: metarig|Stand
+      takeName: metarig|Stand
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: metarig|standcrooked
+      takeName: metarig|standcrooked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
